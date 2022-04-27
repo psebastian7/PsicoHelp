@@ -1,0 +1,53 @@
+*{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: 0 auto;
+}
+body{
+    background-color: #DEDEDE;
+}
+header{
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+nav{
+    border: 1px solid black;
+    background-color: #178FEB;
+    color: #FFFFFF;
+    padding: 5px;
+}
+
+nav a{
+    color:#FFFFFF;
+    text-decoration: none;
+}
+
+section{
+    background-color: #DEDEDE;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+section img{
+    width: 150px;
+    height: 150px;
+}
+
+footer{
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border: 1px solid black;
+    padding: 25px;
+    text-align: center;
+    background-color: #178FEB;
+}
+
+.registro{
+    border: 3px solid black;
+    width: 50%;
+}
